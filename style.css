@@ -1,0 +1,46 @@
+h1 {
+    color:blue; 
+    text-align:center;
+    background-color: rgba(100,0,0,0.5);
+    font-size: 100px;
+    }
+p { 
+    color: blue;
+    font-size: 80px;
+    border-style:dotted;
+    border-color:purple;
+    text-align:center;
+    }
+h2 { 
+    color:blue;
+    text-align:center;
+    border-bottom-style: solid;
+    border-bottom-color: purple;
+    } 
+body{
+    background-image:url("background.jpg");
+    background-size:100% 100%;
+    background-repeat:no repeat;
+}
+img { 
+    display: block;
+    float: left;
+    /*margin:0 auto;*/
+    width:300px;
+    height:300px;
+}
+
+.plain{
+    padding: 15px;
+    /*border: 2px black solid;*/
+}
+
+.fluffly{
+    padding:15px;
+}
+
+.ankle{
+    padding:15px;
+}
+}
+}
